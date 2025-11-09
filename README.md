@@ -1,5 +1,5 @@
 # Connecting-The-Dots-In-RTL-DaybyDay-using_Icarus-verilog_Gtkwave_Yosys-Programming.
-####Upholding the RTL journey
+#### Upholding the RTL journey
 
 **About**
 
