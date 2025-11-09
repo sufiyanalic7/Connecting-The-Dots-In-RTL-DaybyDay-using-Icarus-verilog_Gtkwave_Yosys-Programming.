@@ -1,20 +1,36 @@
-# Connecting-The-Dots-In-RTL_28-Days-Programming-Challenge.
+# Connecting-The-Dots-In-RTL-DaybyDay-using_Icarus-verilog_Gtkwave_Yosys-Programming.
 Upholding the RTL journey
 
-My VLSI Learning Journey  
-About 
-This repository documents my 28-day journey learning digital design and Verilog HDL from scratch. Building digital circuits day by day to master RTL design.
+**About**
+A Digital Book of our Verilog-based RTL designs with testbenches, simulated using Icarus Verilog and GTKWave. This repo upholds the foundational digital logic circuits as part of my VLSI learning journey using open-source tools. 
+This repository documents day by day journey learning digital design and Verilog HDL from scratch.
+-hcc
 
-Current Status 
-- Duration: 28 days
-- Progress: Just started - Goal: Master digital circuit design
-- Skills I'm Learning - Verilog RTL Design - Digital Circuit Design  - Simulation & Verification - FPGA Implementation Basics  Learning Path -
-
-    - Week 1: Combinational Circuits (Gates, MUX, ALU, etc.) -
-    - Week 2: Sequential Circuits (Flip-flops, Counters, Registers) -
-    -  Week 3: Memory & FSM Design (RAM, FIFO, State Machines) -
-    -  Week 4: System Integration (UART, Projects
-       
-- Getting Started Each folder contains Verilog code with testbenches for digital circuits.
--  Learning Log I'm building circuits daily and documenting my progress here.
- --- Learning digital design one circuit at a time
+## PROGRESSING TO BUILD
+ - DAY:1 COMBINATION CIRCUITS.(FOUNDATION)
+ - DAY:2 HALF ADDER
+ - DAY:3 FULL ADDER
+ - DAY:4 2*1 MUX
+ - DAY:5 4*1 MUX
+ - DAY:6 1BIT-COMPARATOR
+ - DAY:7 4BIT-COMPARATOR
+ - DAY:8 DECODER 2*4
+ - DAY:9 ENCODER4*2
+ - DAY:10 2BIT-ALU
+ - DAY:11 4BIT-ALU
+ - DAY:12 8BIT-ALU
+ - DAY:13 RIPPLE CARRY SUBTRACTOR
+ - DAY:14 CARRY LOOK AHEAD ADDER
+ - DAY:15 4BIT-ADDER-SUBTRACTOR
+ - DAY:16 D-LATCH
+ - DAY:17 D-FLIP FLOP
+ - DAY:18 4BIT-BINARY UP COUNTER
+ - DAY 19 UP/DOWN COUNTER
+ - DAY:20 RING COUNTER
+ - DAY:21 JOHNSON COUNTER
+ - DAY:22 BCD COUNTER
+ - DAY:23 MOD-N COUNTER
+ - DAY:24 CLOCK DIVIDER
+ - DAY:25 MEALY FSM
+ - DAY:26 MOORE FSM
+     
