@@ -1,14 +1,17 @@
 # Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming.
 #### Upholding the RTL journey
 
-**About**
+## About
 
 A Digital Book of our Verilog-based RTL designs with testbenches, simulated using Icarus Verilog and GTKWave. This repo upholds the foundational digital logic circuits as part of my VLSI learning journey using open-source tools. 
 This repository documents my day by day journey of learning digital design and Verilog HDL from scratch.
 
+## Accomplished
+
+[Day 1 - And Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%20%3A1%20-%20AND%20GATE)
+
 ## PROGRESSING TO BUILD
-- DAY 1: AND GATE  
-- DAY 2: OR GATE  
+- DAY 2: OR GATE
 - DAY 3: NAND GATE  
 - DAY 4: NOR GATE  
 - DAY 5: XOR GATE  
