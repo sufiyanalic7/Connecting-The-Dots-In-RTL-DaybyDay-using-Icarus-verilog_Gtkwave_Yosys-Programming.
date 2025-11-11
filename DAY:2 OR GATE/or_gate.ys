@@ -1,0 +1,4 @@
+read_verilog or_gate.v
+synth -top or_gate
+write_verilog or_gate_synth.v
+show -format svg -prefix or_gate_schematic
