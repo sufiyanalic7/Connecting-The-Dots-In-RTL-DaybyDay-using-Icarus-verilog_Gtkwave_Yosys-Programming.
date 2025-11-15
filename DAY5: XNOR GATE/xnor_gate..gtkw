@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Nov 15 22:19:40 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/day1_combinational_gates/xnor_gate/test_xnor.vcd"
+[dumpfile_mtime] "Sat Nov 15 22:12:28 2025"
+[dumpfile_size] 371
+[savefile] "/home/sufiyanali/Verilog/day1_combinational_gates/xnor_gate/xnor_gate..gtkw"
+[timestart] 2
+[size] 1000 600
+[pos] -1 -1
+*-3.688525 40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] xnor_tb.
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+xnor_tb.dut.a
+@200
+-
+@28
+xnor_tb.dut.b
+@200
+-
+@29
+[color] 1
+xnor_tb.dut.y
+[pattern_trace] 1
+[pattern_trace] 0
