@@ -14,9 +14,8 @@ This repository documents my day by day journey of learning digital design and V
 
 [Day 3 - Nand Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%3B3%20NAND%20GATE)
 
+[Day 4 - Nor Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%203%3A%20NOR%20GATE)
 ## PROGRESSING TO BUILD
-- DAY 3: NAND GATE  
-- DAY 4: NOR GATE  
 - DAY 5: XOR GATE  
 - DAY 6: XNOR GATE  
 - DAY 7: INVERTER  
