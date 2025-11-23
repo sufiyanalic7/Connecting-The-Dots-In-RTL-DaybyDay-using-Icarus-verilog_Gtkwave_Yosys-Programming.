@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sun Nov 23 19:15:45 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/RTL_DESIGN/mux/2_1mux.vcd"
+[dumpfile_mtime] "Sun Nov 23 19:09:59 2025"
+[dumpfile_size] 446
+[savefile] "/home/sufiyanali/Verilog/RTL_DESIGN/mux/mux.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 121 152
+*-14.000000 50000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 104
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+mux_2_1_tb.a
+@200
+-
+@28
+mux_2_1_tb.b
+@200
+-
+@29
+mux_2_1_tb.select
+@200
+-
+@28
+mux_2_1_tb.y
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
