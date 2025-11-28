@@ -20,15 +20,21 @@ This repository documents my day by day journey of learning digital design and V
 
 [Day 6 - XOR GATE ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY6%3A%20XOR)
 
-[Day 7 - Not Gate-(INVERTER) ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%207%20%3A%20NOT%20GATE%20(INVERTER))
+[Day 7 - Not Gate - (INVERTER) ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%207%20%3A%20NOT%20GATE%20(INVERTER))
+
+[Day 8 - HALF ADDER ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%208%3A%20HALF%20ADDER)
+
+[Day 9 - FULL ADDER ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%209%3A%20FULL%20ADDER)
+
+[Day 10 - 2*1 MUX ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY10%3A%202_1%20MUX)
+
+[Day 11 - 4*1 MUX ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%2011%3A%204_1_mux)
+
+[Day 12 - 1BIT COMPARATOR ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%2012%3A%201-BIT-COMPARATOR)
+
 
 ## PROGRESSING TO BUILD
-
-- DAY 8: HALF ADDER  
-- DAY 9: FULL ADDER  
-- DAY 10: 2*1 MUX  
-- DAY 11: 4*1 MUX  
-- DAY 12: 1BIT COMPARATOR  
+ 
 - DAY 13: 4BIT COMPARATOR  
 - DAY 14: 2*4 DECODER  
 - DAY 15: 4*2 ENCODER  
