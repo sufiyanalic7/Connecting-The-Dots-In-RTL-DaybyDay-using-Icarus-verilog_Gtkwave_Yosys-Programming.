@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Nov 29 18:19:04 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/RTL_DESIGN/4-bit-comparator/four_bit_comp.vcd"
+[dumpfile_mtime] "Sat Nov 29 18:16:17 2025"
+[dumpfile_size] 798
+[savefile] "/home/sufiyanali/Verilog/RTL_DESIGN/4-bit-comparator/four_bit_comp.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.661890 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+four_bit_comp_tb.a
+@200
+-
+@28
+[color] 1
+four_bit_comp_tb.b
+@200
+-
+@28
+four_bit_comp_tb.equal
+@200
+-
+@29
+[color] 2
+four_bit_comp_tb.greater
+@200
+-
+@28
+[color] 3
+four_bit_comp_tb.less
+[pattern_trace] 1
+[pattern_trace] 0
