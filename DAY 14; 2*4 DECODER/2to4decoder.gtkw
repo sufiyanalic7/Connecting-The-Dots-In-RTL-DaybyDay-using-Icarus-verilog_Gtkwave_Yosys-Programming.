@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Dec  1 19:27:57 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/RTL_DESIGN/2*4-DECODER/decoder2to4.vcd"
+[dumpfile_mtime] "Mon Dec  1 19:21:07 2025"
+[dumpfile_size] 546
+[savefile] "/home/sufiyanali/Verilog/RTL_DESIGN/2*4-DECODER/2to4decoder.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-14.000000 40000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+decoder2to4_tb.a
+@200
+-
+@28
+[color] 1
+decoder2to4_tb.b
+@200
+-
+@28
+[color] 3
+decoder2to4_tb.y0
+@200
+-
+@28
+decoder2to4_tb.y1
+@200
+-
+@28
+[color] 7
+decoder2to4_tb.y2
+@200
+-
+@28
+[color] 2
+decoder2to4_tb.y3
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
